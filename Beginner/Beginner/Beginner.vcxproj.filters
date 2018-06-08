@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\01_입/출력 받아보기">
+      <UniqueIdentifier>{65d9bd9b-f0c4-4583-bb38-78276fbf1603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02_사칙연산 도전하기">
+      <UniqueIdentifier>{843a97b4-4519-401d-aa87-2981be45ff62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="001_2557_Hello World!.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="002_1000_A+B.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="003_1001_A-B.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="004_7287_등록.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="005_10172_개.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="006_10718_We love kriii.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="007_11718_그대로 출력하기.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="008_11719_그대로 출력하기2.cpp">
+      <Filter>소스 파일\01_입/출력 받아보기</Filter>
+    </ClCompile>
+    <ClCompile Include="009_10998_AxB.cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+    <ClCompile Include="010_1008_A나누기B.cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+    <ClCompile Include="011_10869_사칙연산.cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

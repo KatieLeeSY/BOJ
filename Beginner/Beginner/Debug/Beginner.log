@@ -1,0 +1,5 @@
+﻿  010_1008_A나누기B.cpp
+e:\katieleesy\boj\beginner\beginner\010_1008_a나누기b.cpp(4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  Beginner.vcxproj -> E:\KatieLeeSY\BOJ\Beginner\Debug\Beginner.exe
+  Beginner.vcxproj -> E:\KatieLeeSY\BOJ\Beginner\Debug\Beginner.pdb (Full PDB)
