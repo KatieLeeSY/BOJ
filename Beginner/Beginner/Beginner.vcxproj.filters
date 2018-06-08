@@ -54,5 +54,11 @@
     <ClCompile Include="011_10869_사칙연산.cpp">
       <Filter>소스 파일\02_사칙연산 도전하기</Filter>
     </ClCompile>
+    <ClCompile Include="012_10430_나머지.cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+    <ClCompile Include="013_2558_A+B(2).cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

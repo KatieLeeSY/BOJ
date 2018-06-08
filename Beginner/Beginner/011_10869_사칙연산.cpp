@@ -3,10 +3,14 @@ int main() {
 	int A, B;
 	scanf("%d %d", &A, &B);
 	//plus
-	printf("%.10lf", (double)A / B);
+	printf("%d\n", A + B);
 	//minus
+	printf("%d\n", A - B);
 	//multiply
+	printf("%d\n", A * B);
 	//divide
+	printf("%d\n", A / B);
 	//remainder
+	printf("%d\n", A % B);
 	return 0;
 }
