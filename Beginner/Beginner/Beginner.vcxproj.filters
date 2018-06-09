@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\02_사칙연산 도전하기">
       <UniqueIdentifier>{843a97b4-4519-401d-aa87-2981be45ff62}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\03_for문 사용해보기">
+      <UniqueIdentifier>{e3c42c9d-d4bb-444e-8dd4-70a686fa0d05}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="001_2557_Hello World!.cpp">
@@ -59,6 +62,12 @@
     </ClCompile>
     <ClCompile Include="013_2558_A+B(2).cpp">
       <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+    <ClCompile Include="014_2839_설탕 배달.cpp">
+      <Filter>소스 파일\02_사칙연산 도전하기</Filter>
+    </ClCompile>
+    <ClCompile Include="015_2741_N 찍기.cpp">
+      <Filter>소스 파일\03_for문 사용해보기</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
